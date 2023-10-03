@@ -15,5 +15,5 @@
 %pip install -qr requirements.txt comet_ml  # install
 
 * Generate a custom.yaml file that is present in folder.
-* 
+* !python train.py --img 640 --batch 16 --epoch 100 --data custom.yaml --weights yolov5m.pt --cache 
 
