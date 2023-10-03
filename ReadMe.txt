@@ -15,6 +15,10 @@
 %pip install -qr requirements.txt comet_ml  # install
 
 * Generate a custom.yaml file that is present in folder.
+* Train dataset can be accessed through this link of drive " https://drive.google.com/file/d/1TUCbT4zrIIFmpl0UjFd250ol-PHt7w0x/view?usp=sharing "
+* Test dataset can be accessed thourgh this drive link " https://drive.google.com/file/d/1gwd3SylaMq4YAHYdWIUD7ea3HRSPRK5D/view?usp=sharing"
 * !python train.py --img 640 --batch 16 --epoch 100 --data custom.yaml --weights yolov5m.pt --cache 
-* Trained weights are stored in Hands_train.zip file in weights folder.
+* Trained weights can be accessed through this link "https://drive.google.com/file/d/1BBkHM0uXnUqwMXUl3hKQ0wgHkPkKGRXm/view?usp=sharing".
+
+
 
