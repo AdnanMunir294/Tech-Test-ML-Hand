@@ -1,0 +1,6 @@
+train: /home/g202110550/hand_train/train/images/
+val:  /home/g202110550/hand_test/test/images/
+
+nc: 15
+names: ['','','','','','','','','','','','','','','','Hand']
+
