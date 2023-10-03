@@ -16,4 +16,5 @@
 
 * Generate a custom.yaml file that is present in folder.
 * !python train.py --img 640 --batch 16 --epoch 100 --data custom.yaml --weights yolov5m.pt --cache 
+* Trained weights are stored in Hands_train.zip file in weights folder.
 
